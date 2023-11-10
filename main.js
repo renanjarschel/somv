@@ -1,5 +1,5 @@
 function tocasom(idElementoaudio){
-    document.querySelector(idElementoaudio).play();
+    document.querySelector(idElementoAudio).play();
 }
 const ListaDeTeclas = document.querySelectorAll(".tecla");
 
