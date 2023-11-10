@@ -11,5 +11,5 @@ ListaDeTeclas[contador].onlclick = function(){
     tocasom (idAudio)
 }
     contador = contador +1;
-    contador.log (contador)
+    contador.log (contador);
 }
